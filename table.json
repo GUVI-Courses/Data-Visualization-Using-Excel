@@ -1,0 +1,33 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "department": "Engineering",
+      "skills": [
+        "Java",
+        "Python",
+        "SQL"
+      ],
+      "address": {
+        "street": "123 Main Street",
+        "city": "New York",
+        "country": "USA"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "department": "Marketing",
+      "skills": [
+        "Marketing Strategy",
+        "Social Media"
+      ],
+      "address": {
+        "street": "456 Elm Street",
+        "city": "San Francisco",
+        "country": "USA"
+      }
+    }
+  ]
+}
